@@ -1,8 +1,9 @@
 import React from 'react'
+import Pagination from '../../components/Pagination'
 
 function Listing() {
   return (
-    <div>Página de listagem</div>
+    <Pagination />
   )
 }
 
