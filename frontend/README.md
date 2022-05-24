@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+### <h1 align="center">`<> Projeto DSMovie </>` </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### <h1 align="center"> ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - DevSuperior </h1>
 
-## Available Scripts
+#
 
-In the project directory, you can run:
+  <h3>App focado em avaliações de filmes, a medida que os filmes vão sendo avaliados as estrelas são preenchidas, em uma das suas três fases, totalmente preenchida, preenchida pela metade, ou vazia.</h3>
+  
+  <img src="/src/assets/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
+ 
+ #### 🛠 Tecnologias utilizadas para desenvolvimento:
+    
+#### Back-end:
+![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=Java&logoColor=007396&)
+![PostgleSQL](https://img.shields.io/badge/-PostgleSQL-white?style=flat&logo=Postgresql&logoColor=007396&)
+![Spring](https://img.shields.io/badge/-Spring-white?style=flat&logo=Spring&logoColor=6DB33F&)
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat&logo=SpringBoot&logoColor=6DB33F&)
+![Postman](https://img.shields.io/badge/-Postman-white?style=flat&logo=Postman&logoColor=FF6C37&)
+![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=Heroku&logoColor=430098&)
 
-### `yarn start`
+#### Front-end:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=007ACC&)
+![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=E34F26&)
+![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat&logo=css3&logoColor=1572B6&)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&)
+![React](https://img.shields.io/badge/-React-white?style=flat&logo=react&logoColor=007396&)
+![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat&logo=netlify&logoColor=00C7B7&)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Versionamento de código:
 
-### `yarn test`
+![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&)
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=GitHub&logoColor=181717&)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+##Link da aplicação no ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat&logo=netlify&logoColor=00C7B7&): https://freiberger-dsmovie.netlify.app
