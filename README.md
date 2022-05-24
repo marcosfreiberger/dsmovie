@@ -6,7 +6,7 @@
 
   <h3>App focado em avaliações de filmes, a medida que os filmes vão sendo avaliados as estrelas são preenchidas, em uma das suas três fases, totalmente preenchida, preenchida pela metade, ou vazia.</h3>
   
-  <img src="/src/assets/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
+  <img src="/frontend/src/assets/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
  
  #### 🛠 Tecnologias utilizadas para desenvolvimento:
     
